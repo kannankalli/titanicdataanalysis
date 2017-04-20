@@ -1,0 +1,5 @@
+You can use any of the technologies like Map Reduce, Pig or Hive of your choice.
+Note:You need to copy the data set into HDFS using flume and send the screen shot of that with the project solution
+1.In this problem statement we will find the average fare of each class.
+2.In this problem statement we will find the number of people alive in each class and are embarked in Southampton.
+3.In this problem statement we will find out number of male and female people died in each class.
